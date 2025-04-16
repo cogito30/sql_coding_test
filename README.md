@@ -1,0 +1,31 @@
+# Coding Test(SQL)
+
+## Description
+SQL을 사용하여 문제 풀이
+
+## Rerence
+- [혼자 공부하는 SQL(MYSQL)](https://www.youtube.com/playlist?list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl8Pm)
+- [SQLD 모든것](https://www.youtube.com/playlist?list=PLDI0745yTBjXFuIFYqq3vzcQYuVyajFpC)
+
+## 기간
+#### [Programmers(MYSQL)](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=mysql)
+- Lv1()
+- Lv2()
+- Lv3()
+- Lv4()
+- Lv5()
+
+#### [Programmers(Oracle)](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=oracle)
+- Lv1()
+- Lv2()
+- Lv3()
+- Lv4()
+- Lv5()
+
+## How To Use
+1) repository 다운받기
+```
+git clone https://github.com/cogito30/mysql_coding_test.git
+```
+
+## Result
