@@ -4,6 +4,7 @@
 SQL을 사용하여 문제 풀이
 
 ## Rerence
+- [TCPSCHOOL(MYSQL)](https://www.tcpschool.com/mysql/intro)
 - [혼자 공부하는 SQL(MYSQL)](https://www.youtube.com/playlist?list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl8Pm)
 - [SQLD 모든것](https://www.youtube.com/playlist?list=PLDI0745yTBjXFuIFYqq3vzcQYuVyajFpC)
 
