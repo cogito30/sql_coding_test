@@ -10,7 +10,7 @@ SQL을 사용하여 문제 풀이
 
 ## 기간
 #### [Programmers(MYSQL)](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=mysql)
-- Lv1(2024.04.20-): 4/31문제
+- Lv1(2024.04.20-): 6/31문제
 - Lv2(): 0/36문제
 - Lv3(): 0/21문제
 - Lv4(): 0/18문제
